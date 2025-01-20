@@ -1,1 +1,4 @@
 Hello git !!!
+
+take input from user 
+and find sum and print that

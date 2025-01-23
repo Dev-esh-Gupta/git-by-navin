@@ -1,9 +1,6 @@
 We have multiple things to handle
 
-<<<<<<< HEAD
 We are working at main branch
-=======
 admin can modify the database
 
 closing the connection
->>>>>>> feature2

@@ -1,8 +1,6 @@
 We have multiple things to handle
 
 We are working at main branch
-admin can modify the database
-
 
 some changes in feature3
 
